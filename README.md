@@ -29,7 +29,7 @@
   <div align="left">
 
 I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel PLACEHOLDER_TIKTOK
+and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/output/pacman-contribution-graph-dark.svg">
