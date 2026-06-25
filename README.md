@@ -45,7 +45,7 @@ and actively contributing to open-source projects for the community. In addition
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/gilbarvara/logos/blob/main/logos/reactivex.svg" alt="RxJava" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarvara/logos/main/logos/reactivex.svg" alt="RxJava" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
