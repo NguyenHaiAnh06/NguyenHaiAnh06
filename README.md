@@ -69,7 +69,6 @@ and actively contributing to open-source projects for the community. In addition
 
 <p align="center">
 <img src="img/header_.png" alt="Header">
-<img src="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/main/dist/grid-snake.svg" alt="Grid-Snake">
 </p>
 
 <h3 align="left"> 📚 Languages and Tools </h3>
