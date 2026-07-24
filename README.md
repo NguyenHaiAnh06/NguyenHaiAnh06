@@ -32,9 +32,9 @@ I am passionate about technology, especially in backend system development. I en
 and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/main/dist/grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/main/dist/grid-snake.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/main/dist/grid-snake-dark.svg" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
   </div>
