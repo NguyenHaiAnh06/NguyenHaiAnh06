@@ -23,10 +23,11 @@
 
 <div>
   <a href="https://github.com/NguyenHaiAnh06">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
-  </a>
-
-  <div align="left">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/main/dist/grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/main/dist/grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NguyenHaiAnh06/NguyenHaiAnh06/main/dist/grid-snake-dark.svg" width="600">
+</picture>
 
 I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
 and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 
